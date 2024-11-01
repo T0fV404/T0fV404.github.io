@@ -6,7 +6,7 @@
   <link href="https://t0fv404.github.io/atom.xml" rel="self"/>
   
   <link href="https://t0fv404.github.io/"/>
-  <updated>2024-10-29T04:43:44.637Z</updated>
+  <updated>2024-11-01T16:21:35.938Z</updated>
   <id>https://t0fv404.github.io/</id>
   
   <author>
@@ -17,18 +17,18 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://t0fv404.github.io/1970/01/01/hello-world/"/>
-    <id>https://t0fv404.github.io/1970/01/01/hello-world/</id>
-    <published>1970-01-01T00:00:00.000Z</published>
-    <updated>2024-10-29T04:43:44.637Z</updated>
+    <title>🖕Fuck world🖕</title>
+    <link href="https://t0fv404.github.io/2024/11/02/Fuck%20world/"/>
+    <id>https://t0fv404.github.io/2024/11/02/Fuck%20world/</id>
+    <published>2024-11-01T16:21:34.000Z</published>
+    <updated>2024-11-01T16:21:35.938Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="欢迎来到我的博客-这是我的第一篇blog"><a href="#欢迎来到我的博客-这是我的第一篇blog" class="headerlink" title="欢迎来到我的博客,这是我的第一篇blog"></a>欢迎来到我的博客,这是我的第一篇blog</h1><p>总得写点什么,介绍自己的在<a href="https://t0fv404.github.io/about">about</a>已经写了,那就稍微记录一下搭blog的赶脚吧.</p><p>其实很折磨,主要是网络,不知道为什么GitHub一直连不上(?)</p><p>首先是用参考这篇文章:<a href="https://blog.cuijiacai.com/blog-building/">个人博客搭建教程 | 爱扑bug的熊</a></p><p>然后看了主题,很喜欢两种,一种是把头像和目录放左边,文章放右边的;一种就是我现在用的Archer主题.因为第一个太多人用,第二个感觉很Geek(?)所以用了第二个,在那里调试半天,不知道什么原因,本地建好打开时blog打不开😔浪费一堆时间.</p><p>后面搞好主题,但不知道怎么传,找了伟大的<strong>Tremse</strong>教我怎么传到Github(感觉前面git白学了,果然实践出真知啊).接下来继续按教程,结果那Netlify跟个黑箱一样报错了都不知道什么问题,还是改用了Github pages.</p><p>中间要求密码反复传不行,搜了下要建立一个密钥,不知道意义何在.评价为:Fuck you!Github.</p><p>最后终于搭好了(后面又重新搞了一次)</p><p>哎,要学的太多了呀🤔以后估计还要搞,知其然,知其所以然~</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;h1 id=&quot;欢迎来到我的博客-这是我的第一篇blog&quot;&gt;&lt;a href=&quot;#欢迎来到我的博客-这是我的第一篇blog&quot; class=&quot;headerlink&quot; title=&quot;欢迎来到我的博客,这是我的第一篇blog&quot;&gt;&lt;/a&gt;欢迎来到我的博客,这是我的第一篇blog&lt;/h1&gt;&lt;</summary>
       
     
     

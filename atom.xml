@@ -6,24 +6,45 @@
   <link href="https://t0fv404.github.io/atom.xml" rel="self"/>
   
   <link href="https://t0fv404.github.io/"/>
-  <updated>2024-11-01T16:21:35.938Z</updated>
+  <updated>2024-11-17T15:33:20.229Z</updated>
   <id>https://t0fv404.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>T0fV404</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>大一上期中后的计划🤔</title>
+    <link href="https://t0fv404.github.io/2024/11/17/%E6%9C%9F%E4%B8%AD%E5%90%8E%E7%9A%84%E8%AE%A1%E5%88%92/"/>
+    <id>https://t0fv404.github.io/2024/11/17/%E6%9C%9F%E4%B8%AD%E5%90%8E%E7%9A%84%E8%AE%A1%E5%88%92/</id>
+    <published>2024-11-17T15:32:23.000Z</published>
+    <updated>2024-11-17T15:33:20.229Z</updated>
+    
+    <content type="html"><![CDATA[<p>虽然说是计划,但想了想,我所立下的计划就没有实现过.要么由于破窗效应就懒得搞了,要么是坚持后懒得搞了,总而言之懒得搞了.</p><p>但计划还是必要的,因为这是对现状的整理,更关键的是会给一种好像干了什么的感觉,这种感觉,是最符合当代大学生的气质呢!我称之为Cospaly气质.</p><p>不管怎么说,设立计划得先整理过去.我大概打了hgame-mini,isctf,深深地感受到了不足和半瓶水,同时不知道方向.然后呢?番剧也落了很多,没想到大学比高中忙,不过也是,毕竟高中时在家自学嘛.</p><p>那么我已经确定方向了,二进制,以逆向为主,pwn为辅(虽然原本觉得pwn很帅).然后番剧也得少看了,至少现在一季度缩减到五到十部吧.</p><p>游戏方面有好多:2077,大表哥,炒饭老师的短篇集等等,唯一的问题是没时间和没买捏.</p><p>综上所述(也没啥分析)我的计划如下:</p><ul><li><p>继续学REVERSE,要看以下书并加以总结(脑子里过一遍):</p><ol><li>汇编语言(实验必须做掉,对于汇编指令要烂在肚子里,从8086再到x32再到x64)</li><li>程序员的自我修养</li><li>逆向工程核心原理</li><li>C++反汇编</li><li>加密与解密</li></ol><p>目前就这些,这样子是差不多够了,还有些书实力不够.在此期间,如有能力还是想学习安卓逆向的,不过还是先把这些搞好吧.</p></li><li><p>把python脚本能力练起来,把CPP学会.故:</p><ol><li>接着刘春英和Hello算法把算法稍微练一下,以CPP为主,同时要思索如何用C语言实现各个数据结构,以上每种要加以总结,输出形式.</li><li>python基本语法学会,稍微刷几道题,然后以misc脚本,ida脚本和pwn脚本练习为主.</li><li>CPP的语法同时也要学,以小甲鱼的视频为主.</li></ol></li><li><p>接下来就是PWN了,PWN我觉得是最难的,因为没有引导你学,有些东西真不知道,REVERSE有小李和我一同学习,我是非常开心的,但PWN呢?上次没问学姐学长我都不知道glibc不一定是0x07开头,wiki压根没讲,接下来是方法论:</p><p>没别的,就一个,多看blog,多看看雪,多看<a href="https://pwn.college/">pwn-college</a>,多做题,然后以后要养起来总结的习惯.</p></li><li><p>番剧漫画:减少看番数量,打算补一下石之门,然后还有碧蓝之海</p></li><li><p>游戏:2077,饥荒联机(闲的时候)</p></li><li><p>刷题⽹站：  <a href="https://adworld.xctf.org.cn/">攻防世界</a> 题⽬有难度划分，适合⼊⻔<br><a href="https://buuoj.cn/">buuoj</a> 题⽬量⽐较⼤，⼀般是看到⼀道题后上buuoj找相关环境   <a href="https://pwnable.tw/">pwnable.tw</a> 题⽬质量⽐较⾼    </p></li><li><p>补充计算机基础,主要是需求,有闲工夫看看CS-wiki,学学linux和vim</p></li></ul><h1 id="最最最最最最最关键的是-整理浏览器文件夹-题目-已经学习的和电脑文件-如有必要-重置系统-改用CTFOS"><a href="#最最最最最最最关键的是-整理浏览器文件夹-题目-已经学习的和电脑文件-如有必要-重置系统-改用CTFOS" class="headerlink" title="最最最最最最最关键的是:整理浏览器文件夹,题目,已经学习的和电脑文件,如有必要,重置系统,改用CTFOS:)"></a>最最最最最最最关键的是:整理浏览器文件夹,题目,已经学习的和电脑文件,如有必要,重置系统,改用CTFOS:)</h1><p>以上!</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;虽然说是计划,但想了想,我所立下的计划就没有实现过.要么由于破窗效应就懒得搞了,要么是坚持后懒得搞了,总而言之懒得搞了.&lt;/p&gt;
+&lt;p&gt;但计划还是必要的,因为这是对现状的整理,更关键的是会给一种好像干了什么的感觉,这种感觉,是最符合当代大学生的气质呢!我称之为Cospaly</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>🖕Fuck world🖕</title>
     <link href="https://t0fv404.github.io/2024/11/02/Fuck%20world/"/>
     <id>https://t0fv404.github.io/2024/11/02/Fuck%20world/</id>
     <published>2024-11-01T16:21:34.000Z</published>
-    <updated>2024-11-01T16:21:35.938Z</updated>
+    <updated>2024-11-01T16:24:23.597Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="欢迎来到我的博客-这是我的第一篇blog"><a href="#欢迎来到我的博客-这是我的第一篇blog" class="headerlink" title="欢迎来到我的博客,这是我的第一篇blog"></a>欢迎来到我的博客,这是我的第一篇blog</h1><p>总得写点什么,介绍自己的在<a href="https://t0fv404.github.io/about">about</a>已经写了,那就稍微记录一下搭blog的赶脚吧.</p><p>其实很折磨,主要是网络,不知道为什么GitHub一直连不上(?)</p><p>首先是用参考这篇文章:<a href="https://blog.cuijiacai.com/blog-building/">个人博客搭建教程 | 爱扑bug的熊</a></p><p>然后看了主题,很喜欢两种,一种是把头像和目录放左边,文章放右边的;一种就是我现在用的Archer主题.因为第一个太多人用,第二个感觉很Geek(?)所以用了第二个,在那里调试半天,不知道什么原因,本地建好打开时blog打不开😔浪费一堆时间.</p><p>后面搞好主题,但不知道怎么传,找了伟大的<strong>Tremse</strong>教我怎么传到Github(感觉前面git白学了,果然实践出真知啊).接下来继续按教程,结果那Netlify跟个黑箱一样报错了都不知道什么问题,还是改用了Github pages.</p><p>中间要求密码反复传不行,搜了下要建立一个密钥,不知道意义何在.评价为:Fuck you!Github.</p><p>最后终于搭好了(后面又重新搞了一次)</p><p>哎,要学的太多了呀🤔以后估计还要搞,知其然,知其所以然~</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="欢迎来到我的博客-这是我的第一篇blog"><a href="#欢迎来到我的博客-这是我的第一篇blog" class="headerlink" title="欢迎来到我的博客,这是我的第一篇blog"></a>欢迎来到我的博客,这是我的第一篇blog</h1><p>总得写点什么,介绍自己的在<a href="https://t0fv404.github.io/about">about</a>已经写了,那就稍微记录一下搭blog的赶脚吧.</p><p>其实很折磨,主要是网络,不知道为什么GitHub一直连不上(?)</p><p>首先是用参考这篇文章:<a href="https://blog.cuijiacai.com/blog-building/">个人博客搭建教程 | 爱扑bug的熊</a></p><p>然后看了主题,很喜欢两种,一种是把头像和目录放左边,文章放右边的;一种就是我现在用的Archer主题.因为第一个太多人用,第二个感觉很Geek(?)所以用了第二个,在那里调试半天,不知道什么原因,本地建好打开时blog打不开😔浪费一堆时间.</p><p>后面搞好主题,但不知道怎么传,找了伟大的<strong>Tremse</strong>教我怎么传到Github(感觉前面git白学了,果然实践出真知啊).接下来继续按教程,结果那Netlify跟个黑箱一样报错了都不知道什么问题,还是改用了Github pages.</p><p>中间要求密码反复传不行,搜了下要建立一个密钥,不知道意义何在.评价为:Fuck you!Github.</p><p>最后终于搭好了(后面又重新搞了一次)</p><p>原本还想搞搜索,评论,流量分析,但我是个懒狗😪</p><p>哎,要学的太多了呀🤔以后估计还要搞,知其然,知其所以然~</p>]]></content>
     
     
       
